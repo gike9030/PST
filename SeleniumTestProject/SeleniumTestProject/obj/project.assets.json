@@ -610,6 +610,9 @@
       "NUnit.Analyzers/3.9.0": {
         "type": "package"
       },
+      "NUnit.ConsoleRunner/3.19.2": {
+        "type": "package"
+      },
       "NUnit3TestAdapter/5.0.0": {
         "type": "package",
         "dependencies": {
@@ -621,10 +624,10 @@
           "build/netcoreapp3.1/NUnit3TestAdapter.targets": {}
         }
       },
-      "Selenium.Support/4.28.0": {
+      "Selenium.Support/4.29.0": {
         "type": "package",
         "dependencies": {
-          "Selenium.WebDriver": "4.28.0"
+          "Selenium.WebDriver": "4.29.0"
         },
         "compile": {
           "lib/netstandard2.0/WebDriver.Support.dll": {
@@ -637,7 +640,7 @@
           }
         }
       },
-      "Selenium.WebDriver/4.28.0": {
+      "Selenium.WebDriver/4.29.0": {
         "type": "package",
         "compile": {
           "lib/net8.0/WebDriver.dll": {
@@ -1540,6 +1543,54 @@
         "tools/uninstall.ps1"
       ]
     },
+    "NUnit.ConsoleRunner/3.19.2": {
+      "sha512": "+ClsQvEvKjfr35E062XJj6j8NOBWND3HMNWx+zO8JACAtVeWgsU9NY5lSppMviITL+6bYkgRQA5bnLvNwiLnTA==",
+      "type": "package",
+      "path": "nunit.consolerunner/3.19.2",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "NOTICES.txt",
+        "images/nunit_256.png",
+        "nunit.consolerunner.3.19.2.nupkg.sha512",
+        "nunit.consolerunner.nuspec",
+        "tools/agents/net462/nunit-agent-x86.exe",
+        "tools/agents/net462/nunit-agent-x86.exe.config",
+        "tools/agents/net462/nunit-agent.exe",
+        "tools/agents/net462/nunit-agent.exe.config",
+        "tools/agents/net462/nunit.engine.api.dll",
+        "tools/agents/net462/nunit.engine.api.xml",
+        "tools/agents/net462/nunit.engine.core.dll",
+        "tools/agents/net462/testcentric.engine.metadata.dll",
+        "tools/agents/net6.0/Microsoft.Extensions.DependencyModel.dll",
+        "tools/agents/net6.0/nunit-agent.deps.json",
+        "tools/agents/net6.0/nunit-agent.dll",
+        "tools/agents/net6.0/nunit-agent.dll.config",
+        "tools/agents/net6.0/nunit-agent.runtimeconfig.json",
+        "tools/agents/net6.0/nunit.engine.api.dll",
+        "tools/agents/net6.0/nunit.engine.api.xml",
+        "tools/agents/net6.0/nunit.engine.core.dll",
+        "tools/agents/net6.0/testcentric.engine.metadata.dll",
+        "tools/agents/net8.0/Microsoft.Extensions.DependencyModel.dll",
+        "tools/agents/net8.0/nunit-agent.deps.json",
+        "tools/agents/net8.0/nunit-agent.dll",
+        "tools/agents/net8.0/nunit-agent.dll.config",
+        "tools/agents/net8.0/nunit-agent.runtimeconfig.json",
+        "tools/agents/net8.0/nunit.engine.api.dll",
+        "tools/agents/net8.0/nunit.engine.api.xml",
+        "tools/agents/net8.0/nunit.engine.core.dll",
+        "tools/agents/net8.0/testcentric.engine.metadata.dll",
+        "tools/nunit.engine.api.dll",
+        "tools/nunit.engine.api.xml",
+        "tools/nunit.engine.core.dll",
+        "tools/nunit.engine.dll",
+        "tools/nunit3-console.exe",
+        "tools/nunit3-console.exe.config",
+        "tools/testcentric.engine.metadata.dll"
+      ]
+    },
     "NUnit3TestAdapter/5.0.0": {
       "sha512": "sy4cLoUAdE6TDM4wNX5gmNCyhMev5wUz4cA6ZRf/aON9vf9t4xTVGLj/4huhDKcS4dFfmVVcgcP70yC7WC9kKg==",
       "type": "package",
@@ -1569,24 +1620,24 @@
         "nunit_256.png"
       ]
     },
-    "Selenium.Support/4.28.0": {
-      "sha512": "6S1gZacGGDRitU2kO92AUHQU1JkMdiFK4NAm6fn8+6eZMU8n04MF6skH6oUqkWAv0wyF1rKWD5IBMFiTBm6G5A==",
+    "Selenium.Support/4.29.0": {
+      "sha512": "Edeldo2R/H4mfh1CW1YNr8g8ASnF/5d9YlvBKtAW93dMImnzaQ47eHbMjoJp4kU4CeyQ22UA300d7VFutzddmw==",
       "type": "package",
-      "path": "selenium.support/4.28.0",
+      "path": "selenium.support/4.29.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "icon.png",
         "lib/netstandard2.0/WebDriver.Support.dll",
         "lib/netstandard2.0/WebDriver.Support.xml",
-        "selenium.support.4.28.0.nupkg.sha512",
+        "selenium.support.4.29.0.nupkg.sha512",
         "selenium.support.nuspec"
       ]
     },
-    "Selenium.WebDriver/4.28.0": {
-      "sha512": "g4iZWBHQH5dObJQKcKXsol8yFJPIkXhVdn/8P726d4OmpHgQ9aYSwtTCWo+FUYHIkMS+haItgeOT6hilmLeHNw==",
+    "Selenium.WebDriver/4.29.0": {
+      "sha512": "bxUeeyGPoPFqqZX/RQAmcuE8fvdi08ep9519rFpONfC/rmBemezfCbbwDKPLE0xkb/cW1asH5WbDYLXs5giVeg==",
       "type": "package",
-      "path": "selenium.webdriver/4.28.0",
+      "path": "selenium.webdriver/4.29.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1601,7 +1652,7 @@
         "manager/linux/selenium-manager",
         "manager/macos/selenium-manager",
         "manager/windows/selenium-manager.exe",
-        "selenium.webdriver.4.28.0.nupkg.sha512",
+        "selenium.webdriver.4.29.0.nupkg.sha512",
         "selenium.webdriver.nuspec"
       ]
     },
@@ -1697,6 +1748,7 @@
       "Microsoft.NET.Test.Sdk >= 17.8.0",
       "NUnit >= 4.3.2",
       "NUnit.Analyzers >= 3.9.0",
+      "NUnit.ConsoleRunner >= 3.19.2",
       "NUnit3TestAdapter >= 5.0.0",
       "Selenium.Support >= 4.*",
       "Selenium.WebDriver >= 4.*",
@@ -1766,6 +1818,10 @@
           "NUnit.Analyzers": {
             "target": "Package",
             "version": "[3.9.0, )"
+          },
+          "NUnit.ConsoleRunner": {
+            "target": "Package",
+            "version": "[3.19.2, )"
           },
           "NUnit3TestAdapter": {
             "target": "Package",

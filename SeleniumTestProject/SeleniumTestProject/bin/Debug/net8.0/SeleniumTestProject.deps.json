@@ -11,9 +11,10 @@
           "Microsoft.NET.Test.Sdk": "17.8.0",
           "NUnit": "4.3.2",
           "NUnit.Analyzers": "3.9.0",
+          "NUnit.ConsoleRunner": "3.19.2",
           "NUnit3TestAdapter": "5.0.0",
-          "Selenium.Support": "4.28.0",
-          "Selenium.WebDriver": "4.28.0",
+          "Selenium.Support": "4.29.0",
+          "Selenium.WebDriver": "4.29.0",
           "Selenium.WebDriver.ChromeDriver": "133.0.6943.5300",
           "SeleniumExtras.WaitHelpers": "1.0.2",
           "coverlet.collector": "6.0.0"
@@ -536,15 +537,16 @@
         }
       },
       "NUnit.Analyzers/3.9.0": {},
+      "NUnit.ConsoleRunner/3.19.2": {},
       "NUnit3TestAdapter/5.0.0": {
         "dependencies": {
           "Microsoft.Testing.Extensions.VSTestBridge": "1.5.3",
           "Microsoft.Testing.Platform.MSBuild": "1.5.3"
         }
       },
-      "Selenium.Support/4.28.0": {
+      "Selenium.Support/4.29.0": {
         "dependencies": {
-          "Selenium.WebDriver": "4.28.0"
+          "Selenium.WebDriver": "4.29.0"
         },
         "runtime": {
           "lib/netstandard2.0/WebDriver.Support.dll": {
@@ -553,7 +555,7 @@
           }
         }
       },
-      "Selenium.WebDriver/4.28.0": {
+      "Selenium.WebDriver/4.29.0": {
         "runtime": {
           "lib/net8.0/WebDriver.dll": {
             "assemblyVersion": "4.0.0.0",
@@ -564,7 +566,7 @@
       "Selenium.WebDriver.ChromeDriver/133.0.6943.5300": {},
       "SeleniumExtras.WaitHelpers/1.0.2": {
         "dependencies": {
-          "Selenium.WebDriver": "4.28.0"
+          "Selenium.WebDriver": "4.29.0"
         },
         "runtime": {
           "lib/netstandard2.1/SeleniumExtras.WaitHelpers.dll": {
@@ -681,6 +683,13 @@
       "path": "nunit.analyzers/3.9.0",
       "hashPath": "nunit.analyzers.3.9.0.nupkg.sha512"
     },
+    "NUnit.ConsoleRunner/3.19.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+ClsQvEvKjfr35E062XJj6j8NOBWND3HMNWx+zO8JACAtVeWgsU9NY5lSppMviITL+6bYkgRQA5bnLvNwiLnTA==",
+      "path": "nunit.consolerunner/3.19.2",
+      "hashPath": "nunit.consolerunner.3.19.2.nupkg.sha512"
+    },
     "NUnit3TestAdapter/5.0.0": {
       "type": "package",
       "serviceable": true,
@@ -688,19 +697,19 @@
       "path": "nunit3testadapter/5.0.0",
       "hashPath": "nunit3testadapter.5.0.0.nupkg.sha512"
     },
-    "Selenium.Support/4.28.0": {
+    "Selenium.Support/4.29.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-6S1gZacGGDRitU2kO92AUHQU1JkMdiFK4NAm6fn8+6eZMU8n04MF6skH6oUqkWAv0wyF1rKWD5IBMFiTBm6G5A==",
-      "path": "selenium.support/4.28.0",
-      "hashPath": "selenium.support.4.28.0.nupkg.sha512"
+      "sha512": "sha512-Edeldo2R/H4mfh1CW1YNr8g8ASnF/5d9YlvBKtAW93dMImnzaQ47eHbMjoJp4kU4CeyQ22UA300d7VFutzddmw==",
+      "path": "selenium.support/4.29.0",
+      "hashPath": "selenium.support.4.29.0.nupkg.sha512"
     },
-    "Selenium.WebDriver/4.28.0": {
+    "Selenium.WebDriver/4.29.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-g4iZWBHQH5dObJQKcKXsol8yFJPIkXhVdn/8P726d4OmpHgQ9aYSwtTCWo+FUYHIkMS+haItgeOT6hilmLeHNw==",
-      "path": "selenium.webdriver/4.28.0",
-      "hashPath": "selenium.webdriver.4.28.0.nupkg.sha512"
+      "sha512": "sha512-bxUeeyGPoPFqqZX/RQAmcuE8fvdi08ep9519rFpONfC/rmBemezfCbbwDKPLE0xkb/cW1asH5WbDYLXs5giVeg==",
+      "path": "selenium.webdriver/4.29.0",
+      "hashPath": "selenium.webdriver.4.29.0.nupkg.sha512"
     },
     "Selenium.WebDriver.ChromeDriver/133.0.6943.5300": {
       "type": "package",

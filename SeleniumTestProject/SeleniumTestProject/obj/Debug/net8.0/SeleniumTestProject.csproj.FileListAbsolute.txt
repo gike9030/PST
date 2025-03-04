@@ -161,3 +161,4 @@ C:\Users\A\Desktop\Testavimas\SeleniumTestProject\SeleniumTestProject\obj\Debug\
 C:\Users\A\Desktop\Testavimas\SeleniumTestProject\SeleniumTestProject\obj\Debug\net8.0\SeleniumTestProject.genruntimeconfig.cache
 C:\Users\A\Desktop\Testavimas\SeleniumTestProject\SeleniumTestProject\obj\Debug\net8.0\ref\SeleniumTestProject.dll
 C:\Users\A\Desktop\Testavimas\SeleniumTestProject\SeleniumTestProject\bin\Debug\net8.0\SeleniumExtras.WaitHelpers.dll
+C:\Users\A\Desktop\Testavimas\SeleniumTestProject\SeleniumTestProject\obj\Debug\net8.0\SeleniumTestProject.sourcelink.json

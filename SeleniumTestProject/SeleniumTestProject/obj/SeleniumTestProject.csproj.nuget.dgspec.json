@@ -62,6 +62,10 @@
               "target": "Package",
               "version": "[3.9.0, )"
             },
+            "NUnit.ConsoleRunner": {
+              "target": "Package",
+              "version": "[3.19.2, )"
+            },
             "NUnit3TestAdapter": {
               "target": "Package",
               "version": "[5.0.0, )"

@@ -7,18 +7,6 @@
       "RelativeMoniker": "D:0:0:{0E6FE959-0FF2-4CD6-8BBE-08096C01CDD3}|SeleniumTestProject\\SeleniumTestProject.csproj|solutionrelative:seleniumtestproject\\datatxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E6FE959-0FF2-4CD6-8BBE-08096C01CDD3}|SeleniumTestProject\\SeleniumTestProject.csproj|c:\\users\\a\\desktop\\testavimas\\seleniumtestproject\\seleniumtestproject\\demowebshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E6FE959-0FF2-4CD6-8BBE-08096C01CDD3}|SeleniumTestProject\\SeleniumTestProject.csproj|solutionrelative:seleniumtestproject\\demowebshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E6FE959-0FF2-4CD6-8BBE-08096C01CDD3}|SeleniumTestProject\\SeleniumTestProject.csproj|c:\\users\\a\\desktop\\testavimas\\seleniumtestproject\\seleniumtestproject\\webtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E6FE959-0FF2-4CD6-8BBE-08096C01CDD3}|SeleniumTestProject\\SeleniumTestProject.csproj|solutionrelative:seleniumtestproject\\webtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E6FE959-0FF2-4CD6-8BBE-08096C01CDD3}|SeleniumTestProject\\SeleniumTestProject.csproj|c:\\users\\a\\desktop\\testavimas\\seleniumtestproject\\seleniumtestproject\\progressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E6FE959-0FF2-4CD6-8BBE-08096C01CDD3}|SeleniumTestProject\\SeleniumTestProject.csproj|solutionrelative:seleniumtestproject\\progressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0E6FE959-0FF2-4CD6-8BBE-08096C01CDD3}|SeleniumTestProject\\SeleniumTestProject.csproj|c:\\users\\a\\desktop\\testavimas\\seleniumtestproject\\seleniumtestproject\\seleniumtestproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0E6FE959-0FF2-4CD6-8BBE-08096C01CDD3}|SeleniumTestProject\\SeleniumTestProject.csproj|solutionrelative:seleniumtestproject\\seleniumtestproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -40,39 +28,14 @@
               "RelativeDocumentMoniker": "SeleniumTestProject\\DataTxt.cs",
               "ToolTip": "C:\\Users\\A\\Desktop\\Testavimas\\SeleniumTestProject\\SeleniumTestProject\\DataTxt.cs",
               "RelativeToolTip": "SeleniumTestProject\\DataTxt.cs",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAkwKMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T11:11:14.308Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProgressBar.cs",
-              "DocumentMoniker": "C:\\Users\\A\\Desktop\\Testavimas\\SeleniumTestProject\\SeleniumTestProject\\ProgressBar.cs",
-              "RelativeDocumentMoniker": "SeleniumTestProject\\ProgressBar.cs",
-              "ToolTip": "C:\\Users\\A\\Desktop\\Testavimas\\SeleniumTestProject\\SeleniumTestProject\\ProgressBar.cs",
-              "RelativeToolTip": "SeleniumTestProject\\ProgressBar.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAIwEEAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T14:58:29.18Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WebTable.cs",
-              "DocumentMoniker": "C:\\Users\\A\\Desktop\\Testavimas\\SeleniumTestProject\\SeleniumTestProject\\WebTable.cs",
-              "RelativeDocumentMoniker": "SeleniumTestProject\\WebTable.cs",
-              "ToolTip": "C:\\Users\\A\\Desktop\\Testavimas\\SeleniumTestProject\\SeleniumTestProject\\WebTable.cs",
-              "RelativeToolTip": "SeleniumTestProject\\WebTable.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAwwDcAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T19:47:54.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "SeleniumTestProject.csproj",
               "DocumentMoniker": "C:\\Users\\A\\Desktop\\Testavimas\\SeleniumTestProject\\SeleniumTestProject\\SeleniumTestProject.csproj",
               "RelativeDocumentMoniker": "SeleniumTestProject\\SeleniumTestProject.csproj",
@@ -81,19 +44,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-02-13T19:59:19.728Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DemoWebShop.cs",
-              "DocumentMoniker": "C:\\Users\\A\\Desktop\\Testavimas\\SeleniumTestProject\\SeleniumTestProject\\DemoWebShop.cs",
-              "RelativeDocumentMoniker": "SeleniumTestProject\\DemoWebShop.cs",
-              "ToolTip": "C:\\Users\\A\\Desktop\\Testavimas\\SeleniumTestProject\\SeleniumTestProject\\DemoWebShop.cs",
-              "RelativeToolTip": "SeleniumTestProject\\DemoWebShop.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T12:34:59.479Z",
-              "EditorCaption": ""
             }
           ]
         }
